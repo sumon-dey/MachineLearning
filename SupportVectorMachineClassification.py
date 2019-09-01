@@ -1,6 +1,6 @@
 # Support Vector Machine (SVM)
 
-# Import the required libraries and collected dataset
+# Import the required libraries and the collected dataset
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plotter
