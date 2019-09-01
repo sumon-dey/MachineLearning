@@ -1,11 +1,8 @@
 #Simple Linear Regression
 
-#Import the required libraries
+#Import the required libraries and the collected Defect Dataset from csv file
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plotter
-
-#Import the collected Defect Dataset from csv file
 collectedDataset = pd.read_csv('MonthlyDefects_Data.csv')
 
 #Create Matrix of features for independent variable-X(Test Execution Duration(in Months)) 
