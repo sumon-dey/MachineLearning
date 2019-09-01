@@ -1,6 +1,6 @@
 #KNN (K-Nearest Neighbors) Classification
 
-# Import the required libraries and the collected dataset
+# Import the required libraries and collected dataset
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plotter
